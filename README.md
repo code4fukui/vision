@@ -2,7 +2,7 @@
 [福井県長期ビジョン](https://www.pref.fukui.lg.jp/doc/seiki/vision2019/top.html)をオープンデータとしてまとめます。随時、新しいデータやイラストなどを追加し、より伝わりやすくなるようアップデートしていきましょう。[ご協力](https://github.com/code4fukui/vision/issues)、[更新提案](https://github.com/code4fukui/vision/pulls)、大歓迎です！
 
 ## 将来構想
-![福井県の目指す将来像](https://code4fukui.github.io/vision/img/vision2.jpg)
+![福井県の目指す将来像](https://code4fukui.github.io/vision/img/fukuivision2.jpg)
 
 - [基本理念](基本理念.md)
   - 「安心のふくい」を未来につなぎ、もっと挑戦！もっとおもしろく！
@@ -19,8 +19,8 @@
 - 世界の潮流と環境変化
 
 ## 実行プラン
-![とんがろう、ふくい](https://code4fukui.github.io/vision/img/vision3.jpg)
-![4つの長期プロジェクト](https://code4fukui.github.io/vision/img/vision1.png)
+![とんがろう、ふくい](https://code4fukui.github.io/vision/img/fukuivision3.jpg)
+![4つの長期プロジェクト](https://code4fukui.github.io/vision/img/fukuivision1.png)
 
 ## 地域プラン
 ## 推進方針
