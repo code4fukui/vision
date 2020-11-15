@@ -1,5 +1,5 @@
 # 福井県長期ビジョン オープンデータ
-[福井県長期ビジョン](https://www.pref.fukui.lg.jp/doc/seiki/vision2019/top.html)をオープンデータとしてまとめます。随時、新しいデータやイラストなどを追加し、より伝わりやすくなるようアップデートしていきましょう。[ご協力](https://github.com/code4fukui/vision/issues)、[更新提案](https://github.com/code4fukui/vision/pulls)、大歓迎です！
+[福井県長期ビジョン](https://www.pref.fukui.lg.jp/doc/seiki/vision2019/top.html)をオープンデータとしてまとめます。[Webサイト](https://code4fukui.github.io/vision/)としてスマホでもご覧いただけます。随時、新しいデータやイラストなどを追加し、より伝わりやすくなるようアップデートしていきましょう。[ご協力](https://github.com/code4fukui/vision/issues)、[更新提案](https://github.com/code4fukui/vision/pulls)、大歓迎です！
 
 ## 将来構想
 ![福井県の目指す将来像](https://code4fukui.github.io/vision/img/fukuivision2.jpg)
