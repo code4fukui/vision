@@ -24,3 +24,5 @@
 
 ## 地域プラン
 ## 推進方針
+## 編集
+[Code for Fukui "vision" on GitHub](https://github.com/code4fukui/vision/)
