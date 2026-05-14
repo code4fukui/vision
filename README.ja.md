@@ -8,7 +8,7 @@
 
 ### 将来構想
 
-![福井県の将来像](https://code4fukui.github.io/vision/img/fukuivision2.jpg)
+![福井県の将来像](https://github.com/code4fukui/visionfukuivision2.jpg)
 
 - **[基本理念 (基本理念.md)](基本理念.md)**
   - 「安心のふくい」を未来につなぎ、もっと挑戦！もっとおもしろく！
@@ -27,9 +27,9 @@
 ### 実行プラン
 実行プランには、ビジョンを実現するための4つの長期戦略プロジェクトが含まれています。
 
-![スローガン: とんがろう、ふくい](https://code4fukui.github.io/vision/img/fukuivision3.jpg)
+![スローガン: とんがろう、ふくい](https://github.com/code4fukui/visionfukuivision3.jpg)
 
-![4つの長期プロジェクトの図解](https://code4fukui.github.io/vision/img/fukuivision1.png)
+![4つの長期プロジェクトの図解](https://github.com/code4fukui/visionfukuivision1.png)
 
 ### 地域プランと推進方針
 これらのセクションでは、地域ごとの実施戦略とビジョン推進の全体的な方針を示しています。
@@ -43,7 +43,7 @@
   - [`2040年の福井県の将来像.md`](2040年の福井県の将来像.md) (2040年の福井県の将来像)
   - [`福井県の特徴.md`](福井県の特徴.md) (福井県の特徴)
 - **ビジュアルアセット**:
-  - すべての画像は [`/img`](https://code4fukui.github.io/vision/img/) ディレクトリにあります。
+  - すべての画像は [`/img`](https://github.com/code4fukui/vision) ディレクトリにあります。
 
 ## コントリビューション
 

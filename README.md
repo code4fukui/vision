@@ -10,7 +10,7 @@ We are continually updating the content with new data and illustrations to make 
 
 ### Future Concept (将来構想)
 
-![Fukui Prefecture's Envisioned Future](https://code4fukui.github.io/vision/img/fukuivision2.jpg)
+![Fukui Prefecture's Envisioned Future](https://github.com/code4fukui/visionfukuivision2.jpg)
 
 
 -   **[Basic Principles (基本理念.md)](基本理念.md)**
@@ -31,10 +31,10 @@ We are continually updating the content with new data and illustrations to make 
 The execution plan includes four long-term strategic projects designed to bring the vision to life.
 
 
-![Slogan: "Let's be edgy, Fukui"](https://code4fukui.github.io/vision/img/fukuivision3.jpg)
+![Slogan: "Let's be edgy, Fukui"](https://github.com/code4fukui/visionfukuivision3.jpg)
 
 
-![Diagram of the 4 Long-Term Projects](https://code4fukui.github.io/vision/img/fukuivision1.png)
+![Diagram of the 4 Long-Term Projects](https://github.com/code4fukui/visionfukuivision1.png)
 
 
 ### Regional Plans (地域プラン) & Promotion Policy (推進方針)
@@ -49,7 +49,7 @@ The vision is documented in Markdown files, making the content easy to read, par
     -   [`2040年の福井県の将来像.md`](2040年の福井県の将来像.md) (2040 Vision)
     -   [`福井県の特徴.md`](福井県の特徴.md) (Characteristics of Fukui)
 -   **Visual Assets**:
-    -   All images are available in the [`/img`](https://code4fukui.github.io/vision/img/) directory.
+    -   All images are available in the [`/img`](https://github.com/code4fukui/vision) directory.
 
 ## Contributing
 
